@@ -1,0 +1,122 @@
+<resources>
+    <string name="app_name">Market Moni</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_sex">Sex</string>
+    <string name="radio_mail">Male</string>
+    <string name="radio_female">Female</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_type_of_business">Type of Business</string>
+
+    <string name="market_location_promt">Select Market Location</string>
+    <string-array name="market_location_arrays">
+        <item>Select Market Location</item>
+        <item>Uyo</item>
+        <item>Eket</item>
+        <item>Ikot Ekpene</item>
+        <item>Oron</item>
+    </string-array>
+
+    <string name="area_uyo_promt">Select Uyo Market Area</string>
+    <string-array name="area_uyo">
+        <item>Select Market Area</item>
+        <item>Itam Market</item>
+        <item>Akpan Andem Market</item>
+        <item>Nung Udoe Market</item>
+        <item>Ekpri Nsukara Market</item>
+        <item>Ekamba Nsukara Market</item>
+        <item>Ekom Iman Market</item>
+        <item>Ikpa Road Market</item>
+        <item>Ifa Timba Market</item>
+        <item>Itam Market</item>
+        <item>Mbiaobong Market</item>
+        <item>Uyo Market</item>
+    </string-array>
+
+    <string name="area_eket_promt">Select Uyo Market Area</string>
+    <string-array name="area_eket">
+        <item>Select Market Area</item>
+        <item>Udua Oka</item>
+        <item>Ikot Akpatek Market</item>
+        <item>Afaha Akai Market</item>
+        <item>Edon Eyo Market</item>
+        <item>Afaha Nsit Atai Market</item>
+        <item>Afaha Nsit Market</item>
+        <item>Ibeno Market</item>
+        <item>Etinan Market</item>
+        <item>Ikot Mbon Market</item>
+        <item>Ikot Esen Market</item>
+        <item>Eket Market</item>
+    </string-array>
+
+    <string name="area_ikotekpene_promt">Select Uyo Market Area</string>
+    <string-array name="area_ikotekpene">
+        <item>Select Market Area</item>
+        <item>Ikot Mbang Market</item>
+        <item>Itak Junction Market</item>
+        <item>Urua Oto</item>
+        <item>Urua Mbakara</item>
+        <item>Ikot Osurua Market</item>
+        <item>Ikot Ekepene Market</item>
+    </string-array>
+
+    <string name="area_oron_promt">Select Uyo Market Area</string>
+    <string-array name="area_oron">
+        <item>Select Market Area</item>
+        <item>Oron Market</item>
+        <item>Ntae Market</item>
+        <item>Inyowg Oron-North Market</item>
+    </string-array>
+
+
+    <string name="text_next">Next >> </string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_phone">Enter a valid phone number</string>
+    <string name="error_address">Enter your address</string>
+    <string name="error_business_type">Enter the type of your business</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Beneficiary Info</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string name="title_activity_fullscreen_splash">FullscreenSplashActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+
+    <string name="about_content1">The MarketMoni is a program that grants interest-free credit facilities to existing microenterprises of market women and traders, enterprising youth, artisans, and agricultural workers. </string>
+    <string name="about_content2">The scheme is from the National Social Investment Office and the initiative is targeted at expanding the scope and scale of economic opportunity for the financially vulnerable of Nigerians. The Federal Government is executing MarketMoni through the Bank of Industry (BOI), a parastatal of the Federal Ministry of Industry, Trade and Investment.</string>
+    <string name="about_content3">Lucky applicants will receive loans ranging from N10,000 to N100,000 per applicant for 6 months. The loan attracts no interest except a one-time 5% administrative fee that you will pay that’s all.</string>
+    <string name="about_content4">TAt the moment, over 24,000 Nigerians have benefited from MarketMoni.</string>
+    <string name="about_content5">The MarketMoni Loan by Federal Government has been existing in thirteen (13) states in Nigeria, which are: Oyo, Ondo, Osun, Abuja, Akwa Ibom, Adamawa, Delta, Ekiti, Kwara, Kogi, Niger, Ogun and Lagos and was recently extended to plateau, Jigawa and Kebbi state.</string>
+    <string name="text_capture_image">Capture Image</string>
+
+</resources>
